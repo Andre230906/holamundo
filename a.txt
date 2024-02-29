@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .container {
+      width: 200px;
+      height: 200px;
+      background-color: #f2f2f2;
+      margin: 20px;
+      border-bottom: 2px solid #000;
+    }
+  </style>
+</head>
+<body>
+  <div class="container"></div>
+  <div class="container"></div>
+  <div class="container"></div>
+  <div class="container"></div>
+  <div class="container"></div>
+</body>
+</html>
+
+.content1{
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
+
+.content2{
+    position: absolute;
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+}
+
+.tractor img,
+.facetoface img,
+.niggasoul img,
+.walk img,
+.content3 img,
+.mac img,
+.cancel img,
+.window img,
+.pedrito img,
+.ipon img,
+.content2 img,
+.woman img {
+    width: 100%;
+    height: auto; 
+}
+
+------------------------
+Claro, aquí tienes una lista de etiquetas HTML y propiedades CSS que podrías necesitar para crear la página web con los contenedores con bordes delgados en la parte inferior:
+
+Etiquetas HTML:
+- <!DOCTYPE html>: Define la versión de HTML que estás utilizando.
+- <html>: Define el inicio y el final del documento HTML.
+- <head>: Contiene la información del encabezado del documento, como metadatos, enlaces a hojas de estilo y scripts, entre otros.
+- <meta>: Define metadatos que proporcionan información sobre el documento.
+- <title>: Define el título del documento que se muestra en la pestaña del navegador.
+- <link>: Enlaza el documento HTML con una hoja de estilo externa.
+- <style>: Permite definir estilos CSS dentro del documento HTML.
+- <body>: Contiene el contenido principal del documento HTML.
+
+Propiedades CSS:
+- width: Define el ancho de un elemento.
+- height: Define la altura de un elemento.
+- background-color: Establece el color de fondo de un elemento.
+- margin: Define los márgenes alrededor de un elemento.
+- border-bottom: Establece un borde en la parte inferior del elemento.
+- border-width: Define el grosor del borde.
+- border-color: Establece el color del borde.
+- display: Define el tipo de visualización de un elemento (bloque, en línea, etc.).
+
+Estas son solo algunas de las etiquetas HTML y propiedades CSS que podrías necesitar para crear la página web con los contenedores. Dependiendo de la complejidad de tu diseño, es posible que necesites otras etiquetas y propiedades. ¡Espero que esta lista te sea útil!
+--------------------------------------------
+
+    </div>
+    <div class="textthree">
+        <p>Tarjeta Metrolínea (Saldo $3000 COP)</p>
+    </div>
+    <div class="textfour">
+        <p>$3000 COP</p>
+    </div>
+    <section>
+        <div class="cart">
+            <a href="index.html">
+                <img src="./imagenes/Icon feather-shopping-cart.png">
+            </a>
+        </div>
+        <div class="search">
+            <a href="./index.html">
+                <img src="./imagenes/Icon ionic-ios-search.png">
+            </a>
+        </div>
+        <div>
+            <nav>
+                <a class="botton" href="./index.html" target="_parent">Comprar Tarjeta</a>
+                <a class="botton1" href="./versaldo.html" target="_parent">Ver Saldo</a>
+
+            </nav>
+        </div>
+    </section>
+</body>
+</html>
+-------------------------------
+    </div>
+    <div class="textthree">
+        <p>Tarjeta Metrolínea (Saldo $3000 COP)</p>
+    </div>
+    <div class="textfour">
+        <p>$3000 COP</p>
+    </div>
+    <section>
+        <div class="cart">
+            <a href="index.html">
+                <img src="./imagenes/Icon feather-shopping-cart.png">
+            </a>
+        </div>
+        <div class="search">
+            <a href="./index.html">
+                <img src="./imagenes/Icon ionic-ios-search.png">
+            </a>
+        </div>
+        <div>
+            <nav>
+                <a class="botton" href="./index.html" target="_parent">Comprar Tarjeta</a>
+                <a class="botton1" href="./versaldo.html" target="_parent">Ver Saldo</a>
+
+            </nav>
+        </div>
+    </section>
+</body>
+</html>
